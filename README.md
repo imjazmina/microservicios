@@ -1,4 +1,3 @@
-```
 # 🐧 Proyecto de Microservicios - Autenticación y Productos
 
 Este proyecto implementa una arquitectura de **microservicios** con Python y Flask.  
@@ -16,7 +15,7 @@ microservicios/
 │   └── app.py
 └── README.md
 
-
+````
 ---
 
 ## 🚀 Servicios
@@ -151,4 +150,3 @@ Este proyecto es una introducción práctica a:
 * Uso de **SQLite** como base de datos ligera.
 
 ---
-```
